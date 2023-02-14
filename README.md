@@ -1,3 +1,4 @@
 # FNFapprehension
-Fnf mod\n
+Fnf mod
+
 HOW DID YOU FIND THIS PAGE
