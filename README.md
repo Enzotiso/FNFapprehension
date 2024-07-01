@@ -5,3 +5,5 @@ write your merge message
 press esc (escape)
 write :wq (write & quit)
 then press enter
+
+Test Push New Name
